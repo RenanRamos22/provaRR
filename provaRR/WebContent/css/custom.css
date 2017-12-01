@@ -1,0 +1,226 @@
+header
+{
+  height:250px;
+  border:1px solid white;
+  text-align: center;
+  padding-top: 90px;
+  background: linear-gradient(to bottom right,#42cfff,#003bff);
+  color:white;
+  text-shadow:   0 2px #000;
+}
+#img_card {
+  background-color: #148eff;
+  height: 180px;
+  padding-top:60px;
+  padding-left:60px;
+
+  color: white;
+  text-shadow: 0 2px  #000000;
+}
+#lbl_mens{
+	
+}
+#btnLimpar{
+	margin-left: 10px;
+}
+#img_card_revenda {
+  background-color: #eb6227;
+
+
+  height: 180px;
+  padding-top:60px;
+  padding-left:60px;
+
+  color: white;
+  text-shadow: 0 2px  #000000;
+}
+#img_card_dedicado {
+  background-color: #aa0000;
+
+
+  height: 180px;
+  padding-top:60px;
+  padding-left:60px;
+
+  color: white;
+  text-shadow: 0 2px  #000000;
+}
+.card-img-top > img{
+  max-height:30%;
+  max-width:30%;
+  position: absolute;
+  top:5%;
+  left:35%;
+}
+#valMensal{
+  left:60px;
+  right:60px;
+  
+  position: absolute;
+}
+#valMensal2{
+  left:60px;
+  right:60px;
+  position: absolute;
+}
+#valMensal3{
+  left:60px;
+  
+  position: absolute;
+}
+.img-serv {
+  float: left;
+  margin: 5px;
+
+}
+.img-serv>img{
+  margin: 5px;
+}
+
+#divContainer {
+
+  border: 2px solid #b3b3b3;
+  width: 50%;
+  float: left;
+  margin-left: 30px;
+
+  min-width: 260px;
+  padding: 5px;
+}
+#divContainer_dedic {
+
+  border: 2px solid #b3b3b3;
+  width: 50%;
+  float: left;
+  margin-left: 30px;
+
+  min-width: 260px;
+  padding: 5px;
+}
+#divContainer_revenda {
+
+  border: 2px solid #b3b3b3;
+  width: 50%;
+  float: left;
+  margin-left: 30px;
+
+  min-width: 260px;
+  padding: 5px;
+}
+.descr {
+  margin-left: 10px;
+  float: left;
+  /*border: 2px solid #b3b3b3;*/
+  padding:10px;
+}
+.h1_smart {
+  background-color: #00aeff;
+  padding: 20px;
+  color: #FFFFFF;
+  text-shadow:  0  3px #000000;
+  border-bottom: 1px solid black;
+  
+}
+.h1_smart_dedic {
+  background-color: #aa0000;
+  padding: 20px;
+  color: #FFFFFF;
+  text-shadow:  0  3px #000000;
+  border-bottom: 1px solid black;
+  
+}
+.h1_smart_revenda {
+  background-color: #eb6227;
+  padding: 20px;
+  color: #FFFFFF;
+  text-shadow:  0  3px #000000;
+  border-bottom: 1px solid black;
+  
+}
+.img_prod_desc {
+  border: 1px solid #b3b3b3;
+  margin: 5px;
+  background-color: #00aeff;
+
+}
+
+.img_prod_desc_dedic {
+  border: 1px solid #b3b3b3;
+  margin: 5px;
+  background-color: #aa0000;
+
+}
+.img_prod_desc_revenda {
+  border: 1px solid #b3b3b3;
+  margin: 5px;
+  background-color: #eb6227;
+
+}
+.img_prod_desc>img{
+  width: 200px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	
+}
+.img_prod_desc_dedic>img{
+  width: 200px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	
+}
+.img_prod_desc_revenda>img{
+  width: 200px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	
+}
+.conteudo {
+  padding: 10px;
+  padding-left: 10%;
+}
+
+#criacao{
+	width:115px; 
+	
+}
+#bd{
+	
+	width:80px;
+}
+
+table, th, td {
+	
+	text-align: center;
+	
+}
+
+.plano_tipo{
+	display:inline-block;
+	padding-left: 10px;
+	
+}
+h3{
+	margin-left: 20px;
+	margin-top:15px;
+}
+#divContainer_dedic > input{
+	background-color: #aa0000;
+	border-color: #aa0000
+}
+#divContainer_dedic > input:hover{
+	background-color: #880000;
+	border-color: #880000
+}
+#divContainer_revenda > input{
+	background-color: #eb6227;
+	border-color: #eb6227
+}
+#divContainer_revenda > input:hover{
+	background-color: #ce5c00;
+	border-color: #ce5c00
+}
+.imgCarrinho{
+	width:100px;
+	
+	
+}
